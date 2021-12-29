@@ -22,4 +22,4 @@ It was introduced a portfolio with the same assets classes and weights as the la
 
 ![alt text](https://github.com/Gabrielmastrangelo/Asset-Allocation-With-Python/blob/main/2-TimingRebalancing/Plot.png)
 
-(My Linkedin webpage)[https://www.linkedin.com/in/gabriel-canuto/]
+[My Linkedin webpage](https://www.linkedin.com/in/gabriel-canuto/)
