@@ -1,6 +1,6 @@
 # Passive Investing
 
-This repository was initialy created to share my project for my course of Business Computing.
+This repository was initially created to share my project for my course in Business Computing.
 I wrote an article talking briefly about passive investing and **asset allocation**, 
 In the end, I made a historical simulation using **Python**. Now, I am developing this repository to show some
 python applications for **asset allocation** and **finance**.
@@ -12,8 +12,8 @@ The article content:
 
 ### 1 - Hello World Portfolio
 Here, just to initiate the topic of asset allocation and python for financial applications, we developed a portfolio with no rebalance and no changes.
-It is noticiable, that as the equity share of the portfolio outperform the others classes, it becomes more volatile, and less diversified. 
-But we will analyse it deeper when se use python for computing portfolio metrics. [Code](1-BasicPortfolio/1-basicPortfolio.ipynb)
+It is noticeable, that as the equity share of the portfolio outperforms the others classes, it becomes more volatile and less diversified. 
+But we will analyze it deeper when we use python for computing portfolio metrics. [Code](1-BasicPortfolio/1-basicPortfolio.ipynb)
 
 ![alt text](https://github.com/Gabrielmastrangelo/BCPT-123_Word_Power_Project/blob/main/Plot.png)
 
