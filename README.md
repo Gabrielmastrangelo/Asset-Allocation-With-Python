@@ -23,7 +23,7 @@ It was introduced a portfolio with the same assets classes and weights as the la
 ![alt text](https://github.com/Gabrielmastrangelo/Asset-Allocation-With-Python/blob/main/2-TimingRebalancing/Plot.png)
 
 ### 3 - Computing Portfolio Metrics
-Python applications for calculating annualized return and volatility. This was just the beginning, there is a lot to show when talking about portfolio metrics. And python is a really useful tool for that.
+Python applications for calculating annualized return and volatility. This was just the beginning, there is a lot to show when talking about portfolio metrics. And python is a really useful tool for that. [Code](https://github.com/Gabrielmastrangelo/Quantitative-Finance-with-Python/blob/main/3-PortfolioMetrics/3%20-%20portfolioMetrics.ipynb)
 
 ![alt text](https://github.com/Gabrielmastrangelo/Quantitative-Finance-with-Python/blob/main/3-PortfolioMetrics/Plot.png)
 
