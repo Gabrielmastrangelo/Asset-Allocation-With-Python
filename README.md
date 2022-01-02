@@ -32,4 +32,4 @@ Python applications for calculating annualized return and volatility. This was j
 ### 4 - Computing the Historical Drawdown for an Asset or Portfolio
 Python application for calculating and plotting the historical drawdown for the SPY index, reflected by the IVV ETF. We can use the same proccedure to calculate the drawdown for any asset or portfolio.
 
-
+![alt text](https://github.com/Gabrielmastrangelo/Quantitative-Finance-with-Python/blob/main/4-MaxDrawdown/Plot.png)
