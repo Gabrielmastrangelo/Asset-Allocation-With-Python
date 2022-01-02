@@ -28,3 +28,8 @@ It was introduced a portfolio with the same assets classes and weights as the la
 Python applications for calculating annualized return and volatility. This was just the beginning, there is a lot to show when talking about portfolio metrics. And python is a really useful tool for that. [Code](https://github.com/Gabrielmastrangelo/Quantitative-Finance-with-Python/blob/main/3-PortfolioMetrics/3%20-%20portfolioMetrics.ipynb)
 
 ![alt text](https://github.com/Gabrielmastrangelo/Quantitative-Finance-with-Python/blob/main/3-PortfolioMetrics/Plot.png)
+
+### 4 - Computing the Historical Drawdown for an Asset or Portfolio
+Python application for calculating and plotting the historical drawdown for the SPY index, reflected by the IVV ETF. We can use the same proccedure to calculate the drawdown for any asset or portfolio.
+
+
