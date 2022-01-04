@@ -12,6 +12,8 @@ The article content:
 
 [My Linkedin webpage](https://www.linkedin.com/in/gabriel-canuto/)
 
+***OBS***: This repository is heavily based in the Courses of [Assets Management w/ Python from EDHEC](https://www.coursera.org/specializations/investment-management-python-machine-learning)
+
 ### 1 - Hello World Portfolio
 Here, just to initiate the topic of asset allocation and python for financial applications, we developed a portfolio with no rebalance and no changes.
 It is noticeable, that as the equity share of the portfolio outperforms the others classes, it becomes more volatile and less diversified. 
@@ -33,3 +35,8 @@ Python applications for calculating annualized return and volatility. This was j
 Python application for calculating and plotting the historical drawdown for the SPY index, reflected by the IVV ETF. We can use the same proccedure to calculate the drawdown for any asset or portfolio.
 
 ![alt text](https://github.com/Gabrielmastrangelo/Quantitative-Finance-with-Python/blob/main/4-MaxDrawdown/Plot.png)
+
+### 5 - Computing Downside Risk Metrics
+We use python to calculate the SemiDeviation, Historic VaR, Historic CVar, Parametric VaR and Cornish-Fisher Parametric VaR.
+
+![alt text](https://github.com/Gabrielmastrangelo/Quantitative-Finance-with-Python/blob/main/5-Downside_RiskMeasures/Plot.png)
